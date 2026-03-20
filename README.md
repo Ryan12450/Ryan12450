@@ -11,7 +11,7 @@ I build practical software systems with a focus on clean architecture, reliable 
 - 🎓 Bachelor's Degree student at Swinburne University of Technology Sarawak Campus
 - 🌱 Currently exploring full-stack web development and software engineering
 - 💡 I love turning ideas into functional, well-designed applications
-- 📍 Based in Iskandar Puteri, Johor, Malaysia
+- 📍 Based in Johor Bahru, Johor, Malaysia
 - 🔍 Open to internship opportunities in web development and software engineering
 
 ---
@@ -89,6 +89,11 @@ Responsive travel website focused on destination exploration and trip planning.
 
 Course project focused on software quality validation and reliability-oriented testing practices.
 **Highlights:** test planning, defect-focused test scenarios, reliability thinking, and evidence-based documentation of testing outcomes.
+
+### 🛡️ [Greenway Energy Malware Analysis](https://github.com/Ryan12450/malware-analysis-greenway)
+
+Malware analysis mini-project featuring a custom YARA rule for downloader/dropper detection.
+**Highlights:** PE header validation, import-based detection logic, IOC extraction (registry/process/file/network), and rule-driven malware signature design.
 
 ---
 
