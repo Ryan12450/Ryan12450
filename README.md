@@ -1,37 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ryan12450 (Cheok Zhi Hong)</h1>
-<h3 align="center">A passionate developer building exciting projects across languages and domains!</h3>
+# Hi, I'm YOUR_NAME
 
-<h3 align="left">Recent Projects:</h3>
+### Software Developer | Game Systems, Full-Stack Web, and Database Design
 
-- **[Spaceship Engineer (C#)](https://github.com/Ryan12450/cos20007-oop-spaceship-engineer)**  
-  A 2D object-oriented adventure game developed in C# with Raylib for COS20007. Demonstrates core OOP principles including inheritance, encapsulation, polymorphism, and modular game architecture.
+I build practical software systems with a focus on clean architecture, reliable data flow, and user-centered experiences. My work spans C/C# game development, PHP/MySQL web platforms, and Python desktop applications. I deliver complete features end-to-end, from schema design and backend logic to UI behavior and testing.
 
-- **[Farm Management System (C++)](https://github.com/Ryan12450/cos20007-credit-task2)**  
-  A C++ farm management system for COS20007, built to demonstrate object-oriented design, scheduling, ordering, and harvest tracking.
+---
 
-- **[Software Testing & Reliability (PHP / Python)](https://github.com/Ryan12450/swe30009-software-testing-reliability)**  
-  A software testing project for a dessert ordering web app, featuring structured test cases, automated Python tests, and CI-oriented quality validation.
+## What I Build
 
-- **[Hospital Information System DB Design (SQL)](https://github.com/Ryan12450/cos20031-hospital-db-design)**  
-  SQL database project with schema, sample data, indexed queries, use-case scripts, and cybersecurity audit/access-control enhancements.
+- 🎮 Interactive game systems with state-driven architecture and progression mechanics
+- 🌐 Full-stack web applications with authentication, admin workflows, and transactional flows
+- 🗄️ Relational database solutions with normalized schemas, indexing, and auditability
+- 🧪 Test-aware software with maintainable structure and measurable behavior
 
-- **[Web Technology E-Commerce App (PHP / MySQL)](https://github.com/Ryan12450/cos10026-webtech-assignment2)**  
-  A PHP/MySQL e-commerce web application featuring user authentication, product browsing, cart and checkout flow, enquiries, and an admin dashboard.
+---
 
-- **[Responsive Product Website (HTML / CSS)](https://github.com/Ryan12450/cos10026-webtech-assignment1)**  
-  A multi-page responsive website featuring product pages, enquiry forms, user login/join pages, and team profile content.
+## Core Skills
 
-- **[Color-Match Game (C)](https://github.com/Ryan12450/cos10009-color-match-game-c)**  
-  A C-based color-matching game with multiple levels, screen management, and an achievements system showcasing core programming fundamentals.
+### Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-111111?style=for-the-badge&logo=raylib&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-7BC043?style=for-the-badge&logo=nunit&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-555555?style=for-the-badge&logo=gnu&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚀 [Spaceship Engineer](https://github.com/YOUR_GITHUB_USERNAME/cos20007-oop-spaceship-engineer-main)
+
+2D action-adventure game built with C# and Raylib-cs using object-oriented architecture.
+**Highlights:** scene/state management, inventory and repair systems, multi-level progression, reusable game managers, and unit-tested components.
+
+### ☕ [Brew & Go Coffee Shop Platform](https://github.com/YOUR_GITHUB_USERNAME/cos10026-webtech-assignment2-main)
+
+Full-stack PHP/MySQL e-commerce and membership platform.
+**Highlights:** authentication, cart and checkout flow, payment handling, admin dashboard, enquiry and job application pipelines, and CRUD back-office operations.
+
+### 🎯 [Color Match Game](https://github.com/YOUR_GITHUB_USERNAME/cos10009-color-match-game-c-main)
+
+C + Raylib game with 10 progressive levels and achievement tracking.
+**Highlights:** modular screen-based architecture, collision logic, gameplay scaling, file I/O for persistent achievements, and keyboard-driven controls.
+
+### 🏥 [Hospital Information System Design](https://github.com/YOUR_GITHUB_USERNAME/cos20031-hospital-db-design-main)
+
+Relational database design for healthcare operations.
+**Highlights:** normalized schema design, indexing strategy, operational SQL for core workflows, and audit-focused data structures.
+
+### 📚 [Library Management System](https://github.com/YOUR_GITHUB_USERNAME/fst10014-library-management-system-main)
+
+Desktop management app with Python, CustomTkinter, and MySQL.
+**Highlights:** role-based flows, lending/return logic, room booking, payment tracking, and Excel export for reporting.
+
+---
+
+## Professional Highlights
+
+- Delivered multi-module software across game, web, and database domains.
+- Built projects with full lifecycle ownership: architecture, implementation, data design, UI, and testing.
+- Applied OOP and database normalization principles to improve maintainability and system clarity.
+- Implemented admin and user workflows with practical CRUD, authentication, and operational data handling.
+
+---
+
+## Education
+
+**Computing Degree Coursework**
+Focus areas: software engineering, object-oriented programming, web development, database systems, and testing/reliability.
+
+---
+
+## Connect
+
+- 📫 Email: [your.email@domain.com](mailto:your.email@domain.com)
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+
+---
+
+## GitHub Highlights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true)
+
+---
+
+## Let's Collaborate
+
+I am open to collaboration on game systems, full-stack web applications, and data-driven software projects. If you are building something technically ambitious and practical, let's connect.
