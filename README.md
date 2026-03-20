@@ -45,37 +45,37 @@ I build practical software systems with a focus on clean architecture, reliable 
 
 ## Featured Projects
 
-### 🚀 [Spaceship Engineer](https://github.com/Ryan12450/cos20007-oop-spaceship-engineer-main)
+## 🚀 [Spaceship Engineer](https://github.com/Ryan12450/cos20007-oop-spaceship-engineer)
 
 2D action-adventure game built with C# and Raylib-cs using object-oriented architecture.
 **Highlights:** scene/state management, inventory and repair systems, multi-level progression, reusable game managers, and unit-tested components.
 
-### ☕ [Brew & Go Coffee Shop Platform](https://github.com/Ryan12450/cos10026-webtech-assignment2-main)
+### ☕ [Brew & Go Coffee Shop Platform](https://github.com/Ryan12450/cos10026-webtech-assignment2)
 
 Full-stack PHP/MySQL e-commerce and membership platform.
 **Highlights:** authentication, cart and checkout flow, payment handling, admin dashboard, enquiry and job application pipelines, and CRUD back-office operations.
 
-### 🎯 [Color Match Game](https://github.com/Ryan12450/cos10009-color-match-game-c-main)
+### 🎯 [Color Match Game](https://github.com/Ryan12450/cos10009-color-match-game-c)
 
 C + Raylib game with 10 progressive levels and achievement tracking.
 **Highlights:** modular screen-based architecture, collision logic, gameplay scaling, file I/O for persistent achievements, and keyboard-driven controls.
 
-### 🏥 [Hospital Information System Design](https://github.com/Ryan12450/cos20031-hospital-db-design-main)
+### 🏥 [Hospital Information System Design](https://github.com/Ryan12450/cos20031-hospital-db-design)
 
 Relational database design for healthcare operations.
 **Highlights:** normalized schema design, indexing strategy, operational MySQL queries for core workflows, and audit-focused data structures.
 
-### 📚 [Library Management System](https://github.com/Ryan12450/fst10014-library-management-system-main)
+### 📚 [Library Management System](https://github.com/Ryan12450/fst10014-library-management-system)
 
 Desktop management app with Python, CustomTkinter, and MySQL.
 **Highlights:** role-based flows, lending/return logic, room booking, payment tracking, and Excel export for reporting.
 
-### 🗺️ [Kyoto Travel Guide Website](https://github.com/Ryan12450/fst10011-kyoto-travel-guide-website-main)
+### 🗺️ [Kyoto Travel Guide Website](https://github.com/Ryan12450/fst10011-kyoto-travel-guide-website)
 
 Responsive travel website focused on destination exploration and trip planning.
 **Highlights:** multi-page information architecture, search-friendly content layout, mobile navigation, and clean front-end implementation with HTML, CSS, and JavaScript.
 
-### 🧪 [Software Testing & Reliability](https://github.com/Ryan12450/swe30009-software-testing-reliability-main)
+### 🧪 [Software Testing & Reliability](https://github.com/Ryan12450/swe30009-software-testing-reliability)
 
 Course project focused on software quality validation and reliability-oriented testing practices.
 **Highlights:** test planning, defect-focused test scenarios, reliability thinking, and evidence-based documentation of testing outcomes.
