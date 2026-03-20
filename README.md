@@ -6,6 +6,16 @@ I build practical software systems with a focus on clean architecture, reliable 
 
 ---
 
+## About Me
+
+- 🎓 Bachelor's Degree student at Swinburne University of Technology Sarawak Campus
+- 🌱 Currently exploring full-stack web development and software engineering
+- 💡 I love turning ideas into functional, well-designed applications
+- 📍 Based in Johor Bahru, Johor, Malaysia
+- 🔍 Open to internship opportunities in web development and software engineering
+
+---
+
 ## What I Build
 
 - 🎮 Interactive game systems with state-driven architecture and progression mechanics
