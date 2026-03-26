@@ -1,35 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00b4d8&height=200&section=header&text=Hi,%20I'm%20Cheok%20Zhi%20Hong%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=dragon_egg&color=0:0d0d0d,30:1a0033,70:7b2fff,100:00ffcc&height=240&section=header&text=CHEOK%20ZHI%20HONG&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=%E2%96%BA%20PLAYER%201%20HAS%20ENTERED%20THE%20GAME&descAlignY=65&descSize=16&descColor=00ffcc&animation=scaleIn" width="100%"/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Game+Systems+Developer+%F0%9F%8E%AE;Full-Stack+Web+Engineer+%F0%9F%8C%90;Database+Designer+%F0%9F%97%84%EF%B8%8F;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&height=60&lines=%5BSOFTWARE+DEVELOPER%5D;%5BGAME+SYSTEMS+ENGINEER%5D;%5BFULL-STACK+WEB+BUILDER%5D;%5BDATABASE+ARCHITECT%5D;%5BQUEST%3A+INTERNSHIP+UNLOCKED+%F0%9F%94%93%5D" alt="Typing SVG" />
 </p>
 
----a
-
-## About Me
-
-- 🎓 Bachelor's Degree student at Swinburne University of Technology Sarawak Campus
-- 🌱 Currently exploring full-stack web development and software engineering
-- 💡 I love turning ideas into functional, well-designed applications
-- 📍 Based in Johor Bahru, Johor, Malaysia
-- 🔍 Open to internship opportunities in web development and software engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-SEEKING%20INTERNSHIP-00ffcc?style=for-the-badge&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/LEVEL-UNDERGRADUATE-ff00ff?style=for-the-badge&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/LOCATION-JOHOR%20BAHRU%20🇲🇾-7b2fff?style=for-the-badge&labelColor=1a0033" />
+</p>
 
 ---
 
-## What I Build
+## 👾 Player Stats
 
-- 🎮 Interactive game systems with state-driven architecture and progression mechanics
-- 🌐 Full-stack web applications with authentication, admin workflows, and transactional flows
-- 🗄️ Relational database solutions with normalized schemas, indexing, and auditability
-- 🧪 Test-aware software with maintainable structure and measurable behavior
+```
+┌─────────────────────────────────────────────────────────┐
+│  NAME     : Cheok Zhi Hong                              │
+│  CLASS    : Software Developer                          │
+│  GUILD    : Swinburne University of Technology Sarawak  │
+│  SPEC     : Game Dev / Full-Stack Web / Database Design │
+│  STATUS   : Open to Internship Opportunities            │
+│  LOCATION : Johor Bahru, Johor, Malaysia                │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Core Skills
+## 🐍 Contribution Snake
 
-### Languages
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan12450/Ryan12450/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan12450/Ryan12450/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ryan12450/Ryan12450/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## ⚔️ Skill Tree
+
+### 🗡️ Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,13 +52,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### 🛡️ Frameworks & Libraries
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-111111?style=for-the-badge&logo=raylib&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
 
-### Databases & Tools
+### 🧰 Tools & Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -55,87 +67,91 @@
 
 ---
 
-## Featured Projects
+## 🏆 Completed Quests
 
-## 🚀 [Spaceship Engineer](https://github.com/Ryan12450/cos20007-oop-spaceship-engineer)
+### 🚀 [Spaceship Engineer](https://github.com/Ryan12450/cos20007-oop-spaceship-engineer)
+> `C#` · `Raylib-cs` · `OOP` · `Unit Testing`
 
-2D action-adventure game built with C# and Raylib-cs using object-oriented architecture.
-**Highlights:** scene/state management, inventory and repair systems, multi-level progression, reusable game managers, and unit-tested components.
+2D action-adventure game with scene/state management, inventory and repair systems, multi-level progression, reusable game managers, and unit-tested components.
+
+---
 
 ### ☕ [Brew & Go Coffee Shop Platform](https://github.com/Ryan12450/cos10026-webtech-assignment2)
+> `PHP` · `MySQL` · `Full-Stack` · `Admin Dashboard`
 
-Full-stack PHP/MySQL e-commerce and membership platform.
-**Highlights:** authentication, cart and checkout flow, payment handling, admin dashboard, enquiry and job application pipelines, and CRUD back-office operations.
+Full-stack e-commerce and membership platform with authentication, cart/checkout flow, payment handling, admin back-office, and CRUD operations.
+
+---
 
 ### 🎯 [Color Match Game](https://github.com/Ryan12450/cos10009-color-match-game-c)
+> `C` · `Raylib` · `Game Loop` · `File I/O`
 
-C + Raylib game with 10 progressive levels and achievement tracking.
-**Highlights:** modular screen-based architecture, collision logic, gameplay scaling, file I/O for persistent achievements, and keyboard-driven controls.
+10-level progressive game with modular screen-based architecture, collision logic, gameplay scaling, and persistent achievement tracking.
+
+---
 
 ### 🏥 [Hospital Information System Design](https://github.com/Ryan12450/cos20031-hospital-db-design)
+> `MySQL` · `Database Design` · `Normalization`
 
-Relational database design for healthcare operations.
-**Highlights:** normalized schema design, indexing strategy, operational MySQL queries for core workflows, and audit-focused data structures.
+Relational database design for healthcare operations — normalized schema, indexing strategy, and audit-focused data structures.
+
+---
 
 ### 📚 [Library Management System](https://github.com/Ryan12450/fst10014-library-management-system)
+> `Python` · `CustomTkinter` · `MySQL` · `Excel Export`
 
-Desktop management app with Python, CustomTkinter, and MySQL.
-**Highlights:** role-based flows, lending/return logic, room booking, payment tracking, and Excel export for reporting.
+Desktop management app with role-based flows, lending/return logic, room booking, payment tracking, and Excel reporting.
+
+---
 
 ### 🗺️ [Kyoto Travel Guide Website](https://github.com/Ryan12450/fst10011-kyoto-travel-guide-website)
+> `HTML` · `CSS` · `JavaScript` · `Responsive Design`
 
-Responsive travel website focused on destination exploration and trip planning.
-**Highlights:** multi-page information architecture, search-friendly content layout, mobile navigation, and clean front-end implementation with HTML, CSS, and JavaScript.
+Responsive travel website with multi-page architecture, search-friendly layout, and mobile-first navigation.
+
+---
 
 ### 🧪 [Software Testing & Reliability](https://github.com/Ryan12450/swe30009-software-testing-reliability)
+> `Test Planning` · `Defect Analysis` · `Reliability Engineering`
 
-Course project focused on software quality validation and reliability-oriented testing practices.
-**Highlights:** test planning, defect-focused test scenarios, reliability thinking, and evidence-based documentation of testing outcomes.
+Course project on software quality validation, test planning, defect-focused scenarios, and evidence-based documentation.
+
+---
 
 ### 🛡️ [Greenway Energy Malware Analysis](https://github.com/Ryan12450/malware-analysis-greenway)
+> `YARA` · `PE Analysis` · `IOC Extraction` · `Malware Detection`
 
-Malware analysis mini-project featuring a custom YARA rule for downloader/dropper detection.
-**Highlights:** PE header validation, import-based detection logic, IOC extraction (registry/process/file/network), and rule-driven malware signature design.
-
----
-
-## Professional Highlights
-
-- Delivered multi-module software across game, web, and database domains.
-- Built projects with full lifecycle ownership: architecture, implementation, data design, UI, and testing.
-- Applied OOP and database normalization principles to improve maintainability and system clarity.
-- Implemented admin and user workflows with practical CRUD, authentication, and operational data handling.
+Custom YARA rule for downloader/dropper detection with PE header validation, import-based logic, and IOC extraction.
 
 ---
 
-## Education
-
-**Computing Degree Coursework**
-Focus areas: software engineering, object-oriented programming, web development, database systems, and testing/reliability.
-
----
-
-## Connect
-
-- 📫 Email: [cheokzhihong53@gmail.com](mailto:cheokzhihong53@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/zhi-hong-cheok-188570287](https://www.linkedin.com/in/zhi-hong-cheok-188570287)
-
----
-
-## GitHub Highlights
+## 📊 Game Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryan12450&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan12450&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan12450&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan12450&layout=compact&hide_border=true&theme=radical&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ryan12450&hide_border=true&theme=tokyonight&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+  <img src="https://streak-stats.demolab.com?user=Ryan12450&hide_border=true&background=0d0d0d&ring=7b2fff&fire=ff00ff&currStreakLabel=00ffcc&sideLabels=ffffff&dates=888888&stroke=7b2fff" />
 </p>
 
 ---
 
-## Let's Collaborate
+## 📡 Connect & Co-op
 
-I am open to collaboration on game systems, full-stack web applications, and data-driven software projects. If you are building something technically ambitious and practical, let's connect.
+<p align="center">
+  <a href="mailto:cheokzhihong53@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-cheokzhihong53%40gmail.com-00ffcc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zhi-hong-cheok-188570287">
+    <img src="https://img.shields.io/badge/LINKEDIN-Zhi%20Hong%20Cheok-7b2fff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033"/>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+<p align="center">
+  <i>🎮 Open to collaboration on game systems, full-stack web apps, and data-driven software. If you're building something technically ambitious — <b>let's party up.</b></i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=dragon_egg&color=0:00ffcc,30:7b2fff,70:1a0033,100:0d0d0d&height=140&section=footer&animation=fadeIn" width="100%"/>
