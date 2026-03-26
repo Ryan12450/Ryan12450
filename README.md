@@ -1,28 +1,12 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&height=60&lines=%5BSOFTWARE+DEVELOPER%5D;%5BGAME+SYSTEMS+ENGINEER%5D;%5BFULL-STACK+WEB+BUILDER%5D;%5BDATABASE+ARCHITECT%5D;%5BQUEST%3A+INTERNSHIP+UNLOCKED+%F0%9F%94%93%5D" alt="Typing SVG" />
+  <img src="./header.svg" alt="Cheok Zhi Hong profile header" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SEEKING%20INTERNSHIP-00ffcc?style=for-the-badge&labelColor=1a0033" />
-  <img src="https://img.shields.io/badge/LEVEL-UNDERGRADUATE-ff00ff?style=for-the-badge&labelColor=1a0033" />
-  <img src="https://img.shields.io/badge/LOCATION-JOHOR%20BAHRU%20🇲🇾-7b2fff?style=for-the-badge&labelColor=1a0033" />
-</p>
+## 🎮 About This Profile
 
----
-
-## 👾 Player Stats
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  NAME     : Cheok Zhi Hong                              │
-│  CLASS    : Software Developer                          │
-│  GUILD    : Swinburne University of Technology Sarawak  │
-│  SPEC     : Game Dev / Full-Stack Web / Database Design │
-│  STATUS   : Open to Internship Opportunities            │
-│  LOCATION : Johor Bahru, Johor, Malaysia                │
-└─────────────────────────────────────────────────────────┘
-```
+I build gameplay systems, full-stack web apps, and practical data solutions.
+This profile highlights selected projects, tools, and technical growth across game development, web engineering, and database design.
 
 ---
 
