@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=dragon_egg&color=0:0d0d0d,30:1a0033,70:7b2fff,100:00ffcc&height=240&section=header&text=CHEOK%20ZHI%20HONG&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=%E2%96%BA%20PLAYER%201%20HAS%20ENTERED%20THE%20GAME&descAlignY=65&descSize=16&descColor=00ffcc&animation=scaleIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&height=60&lines=%5BSOFTWARE+DEVELOPER%5D;%5BGAME+SYSTEMS+ENGINEER%5D;%5BFULL-STACK+WEB+BUILDER%5D;%5BDATABASE+ARCHITECT%5D;%5BQUEST%3A+INTERNSHIP+UNLOCKED+%F0%9F%94%93%5D" alt="Typing SVG" />
@@ -154,4 +153,3 @@ Custom YARA rule for downloader/dropper detection with PE header validation, imp
   <i>🎮 Open to collaboration on game systems, full-stack web apps, and data-driven software. If you're building something technically ambitious — <b>let's party up.</b></i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=dragon_egg&color=0:00ffcc,30:7b2fff,70:1a0033,100:0d0d0d&height=140&section=footer&animation=fadeIn" width="100%"/>
