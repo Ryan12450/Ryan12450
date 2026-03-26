@@ -1,10 +1,12 @@
-# Hi, I'm Cheok Zhi Hong
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00b4d8&height=200&section=header&text=Hi,%20I'm%20Cheok%20Zhi%20Hong%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-### Software Developer | Game Systems, Full-Stack Web, and Database Design
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Game+Systems+Developer+%F0%9F%8E%AE;Full-Stack+Web+Engineer+%F0%9F%8C%90;Database+Designer+%F0%9F%97%84%EF%B8%8F;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
-I build practical software systems with a focus on clean architecture, reliable data flow, and user-centered experiences. My work spans C/C# game development, PHP/MySQL web platforms, and Python desktop applications. I deliver complete features end-to-end, from schema design and backend logic to UI behavior and testing.
-
----
+---a
 
 ## About Me
 
@@ -122,12 +124,18 @@ Focus areas: software engineering, object-oriented programming, web development,
 
 ## GitHub Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan12450&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan12450&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ryan12450&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan12450&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan12450&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ryan12450&hide_border=true&theme=tokyonight&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+</p>
 
 ---
 
 ## Let's Collaborate
 
 I am open to collaboration on game systems, full-stack web applications, and data-driven software projects. If you are building something technically ambitious and practical, let's connect.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
